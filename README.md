@@ -1,5 +1,5 @@
 # Inferential-Statistics-Project
-University project submited as part of my coursework for the PGP-Data Science and Business Analytics at Great Lakes 
+Applied inferential statistics to real-world datasets using Python. Implemented probability analysis, hypothesis testing, t-tests, and two-way ANOVA to derive business and healthcare insights.
 
 # 📊 Inferential Statistics & Data Analysis Project
 
